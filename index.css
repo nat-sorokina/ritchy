@@ -1,0 +1,28 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+  }
+   
+  h1 {
+    color: SeaGreen;
+    text-align: center;
+  }
+   
+  p {
+    font-size: 18px;
+    width: 300px;
+    
+  }
+
+  body {
+    background-image: url("https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png");
+  }
+
+  img {
+      width: 310px;
+      height: 310px;
+  }
+ 
+  p, img {
+    display: inline-block;
+  }
+  
